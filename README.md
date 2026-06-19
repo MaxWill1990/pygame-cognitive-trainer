@@ -1,14 +1,14 @@
 # 🧠 Pygame Cognitive Trainer
 
-Um simulador gamificado desenvolvido em Python (Pygame) focado em treinar habilidades cognitivas exigidas em processos seletivos de grandes empresas.
+Um simulador gamificado desenvolvido em Python (Pygame) focado em treinar habilidades cognitivas exigidas em processos seletivos e testes de RH.
 
 ## 📖 A História por trás do Projeto
 
-Recentemente, participei de um processo seletivo para uma oportunidade na área de TI em uma grande empresa de São José dos Campos. A jornada foi incrível, mas acabei sendo reprovado justamente na etapa do **teste cognitivo e de lógica**. 
+Recentemente, participei de um processo seletivo para uma vaga de **estágio em TI** em uma grande empresa de São José dos Campos. A jornada foi incrível, mas acabei sendo reprovado justamente na etapa do teste cognitivo e de lógica. 
 
-Aquilo ficou na minha cabeça. Como desenvolvedor, decidi que não iria apenas aceitar a frustração. Em vez disso, transformei essa experiência em código. 
+Aquilo ficou na minha cabeça. Como sou o tipo de pessoa que adora facilitar as coisas, otimizar o dia a dia e criar soluções do zero, decidi que não iria apenas aceitar a frustração. Em vez disso, transformei essa experiência em código. 
 
-Com o auxílio de Inteligência Artificial, mapeei a lógica por trás de avaliações de RH (atenção concentrada, raciocínio espacial e inglês técnico) e desenvolvi este simulador. O objetivo deste projeto é duplo: **treinar minhas próprias habilidades** para as próximas oportunidades e **disponibilizar uma ferramenta gratuita** para qualquer pessoa que queira se preparar e chegar mais confiante nesses processos seletivos.
+Com o auxílio de Inteligência Artificial, mapeei a lógica por trás de avaliações de RH (atenção concentrada, raciocínio espacial e inglês técnico) e desenvolvi este simulador. O objetivo deste projeto é duplo: **treinar minhas próprias habilidades** para os próximos processos seletivos e **disponibilizar uma ferramenta gratuita** para qualquer pessoa que queira se preparar e chegar mais confiante na hora do teste.
 
 ## 🎮 Módulos do Simulador
 
